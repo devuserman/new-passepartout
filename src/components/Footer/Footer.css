@@ -1,0 +1,98 @@
+/* Footer.css */
+footer {
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  background: linear-gradient(to right, rgb(21, 27, 32), rgb(145, 152, 158));
+  color: #ff9a8b; /* Белый цвет текста для контраста */
+  padding: 20px;
+  font-family: 'Arial', sans-serif; /* Шрифт можно заменить на ваш предпочтительный */
+}
+
+.footer-section {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 0 5%; /* Уменьшить отступы по краям */
+  flex: 1; /* Распределить пространство поровну между секциями */
+}
+.footer-logo {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.footer-logo .text-logo {
+  font-size: 16px; /* Размер шрифта для логотипа текста */
+ 
+}
+
+.footer-logo img {
+  max-width: 40px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.footer-contact a, .footer-legal a {
+  color: #ff9a8b; /* Цвет заката для ссылок */
+  margin: 5px 0;
+  text-decoration: none;
+  font-size: 16px; /* Размер шрифта для ссылок */
+  transition: color 0.3s ease;
+}
+
+.footer-contact a:hover, .footer-legal a:hover {
+  color: #ffd1c1; /* Светлый оттенок заката при наведении */
+}
+
+.footer-contact {
+  text-align: center;
+}
+
+.mail-box {
+  display: flex;
+  align-items: center; /* Центрирование иконки по вертикали */
+  justify-content: center;
+}
+
+.icon-mail {
+  width: 30px;
+  margin-left: 10px;
+}
+
+.footer-legal {
+ 
+  margin-top: 15px; /* Дополнительный отступ сверху для секции с правовой информацией */
+  font-size: 14px; /* Меньший размер шрифта для юридической информации */
+}
+
+
+  
+  @media screen and (max-width: 1024px){
+    footer {
+      display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap:10px;
+     }
+     .footer-contact {
+    margin-top: 10px;
+      
+     }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+  .footer-logo .text-logo {
+    font-size: 14px;
+  }
+  .footer-contact a {
+    font-size: 14px;
+  }
+  .footer-legal a {
+    font-size: 14px;
+  }
+  }
+  

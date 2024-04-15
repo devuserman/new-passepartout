@@ -1,0 +1,66 @@
+{
+    "home": {
+        "contactUs": "Contactez-nous",
+        "tarifOur": "Nos tarifs",
+        "requestAQuote": "Demandez un devis",
+        "transfer24": "VTC PASSEPARTOUT vous propose les transferts 24/24 de toute distance sur réservation. Effectuez vos transferts d’affaires, touristique ou bien bénéficiez d’une voiture avec chauffeur privé pendant plusieurs heures ou une demi-journée par simple réservation. Planifiez vos déplacements en toute sécurité, adaptés à vos besoins par nos professionnels et soyez irréprochable dans votre organisation, car avoir du temps c’est posséder le bien le plus précieux pour celui qui aspire à des grandes choses.",
+        "childSafety": "Nous pensons à votre sécurité et à celle de vos proches! Code de la route indique que tout enfant de moins de 10 ans ou mesurant moins de 135 cm doit être transporté dans un dispositif homologué de sécurité adapté à son poids. Assurerons la sécurité de nos enfants en indiquant dans la réservation, si vous avez besoin d’un siège auto. Toute réservation sans information concernant la nécessité d’un siège bébé peut être annulé par le chauffeur avec des frais à partir de 20 euros pour son déplacement.",
+        "luggagePolicy": "Des valises de grand format 75x47x29 doivent être prise en compte lors de votre demande de devis. Afin d’éviter tout malentendu ou annulation de votre course pour le nombre excessive de vos bagages, prière de nous communiquer maximum d’information concernant les détails de vos transferts et nous essayerons de trouver les solution adaptés pour vous.",
+        "reserveYourVTC": "RÉSERVEZ VOTRE VTC À LA ROCHELLE, ÎLE DE RÉ ET SES ALENTOURS",
+        "pricingPolicy": "POLITIQUE TARIFAIRE",
+        "pricingDetails": "Bien que nos tarifs dépendent de plein de facteurs, comme les conditions de transferts et les spécificités de votre commande, nous essayons de faire de notre mieux, pour que le prix de votre course soit inférieur à l’intérêt, que vous gagnerez en choisissant notre service. Nous proposons les courses à partir de 24 euros. Conditions de la mise à la disposition: La mise à disposition d’une voiture avec chauffeur est facturée 50 euros TTC / heure 15 km inclus et 2 euros TTC par chaque km supplémentaire. Ses conditions sont valables sauf dimanches et jours fériés. Les prix de vos transferts vous seront communiqués au préalable. Nous vous remercions d'avoir pris connaissance de nos conditions!",
+        "rateUsOnGoogle": "Votre avis compte ! Évaluez-nous sur Google"
+        },  
+    "contact" : {
+            "reservationFormTitle": "Formulaire de réservation",
+            "informationHeading": "Passeur d'informations :",
+            "nameLabel": "Nom*:",
+            "firstNameLabel": "Prénom*:",
+            "emailLabel": "E-mail*:",
+            "phoneNumberLabel": "Numéro portable*:",
+            "reservationDetailsHeading": "Détails de la réservation :",
+            "departureDateLabel": "Date de départ*:",
+            "departureTimeLabel": "Heures de départ:",
+            "numberOfPassengersLabel": "Nombre de passagers*:",
+            "commentsLabel": "Commentaires:",
+            "departureAddressLabel": "Adresse de Départ*:",
+            "arrivalAddressLabel": "Adresse d'arrivée*:",
+            "numberVerificationLabel": "Combien font: ",
+            "submitButton": "Envoyer",
+            "successMessage": "Votre réservation a été envoyée avec succès!"
+          },
+    "header": {
+            "home": "Accueil",
+            "bookYourRide": "Réservez votre course",
+            "ourRates": "Nos tarifs"
+          }, 
+    "footer": {
+            "developedBy": "© 2023 Developpement par",
+            "callUs": "Appelez-nous au +33 6 42 98 50 37",
+            "contactByEmail": "Ou contactez par mail",
+            "termsAndPrivacy": "Conditions et politique de confidentialité"
+          },
+    "privacy": {
+        "termsTitle": "Conditions Générales d'Utilisation",
+        "effectiveDate": "En vigueur au [Date d'entrée en vigueur]",
+        "termsIntroduction": "Les présentes conditions générales d'utilisation (dites « CGU ») ont pour objet l'encadrement juridique des modalités de mise à disposition du site et des services par [Votre Nom ou celui de votre société] et de définir les conditions d’accès et d’utilisation des services par « l'Utilisateur ».",
+        "legalMentionsTitle": "Article 1 : Les mentions légales",
+        "legalMentionsContent": "L’édition et la direction de la publication du site vtcpassepartout.fr est assurée par 'AG'. Adresse e-mail 'romashka.an88@gmail.com. L'hébergeur du site vtcpassepartout.fr est la société 'IONOS'.",
+        "accessToSiteTitle": "ARTICLE 2 : Accès au site",
+        "accessToSiteContent": "Le site vtcpassepartout.fr permet à l'Utilisateur un accès gratuit aux services suivants : Le site internet propose les services suivants : 'Transports des personnes'. Le site est accessible gratuitement en tout lieu à tout Utilisateur ayant un accès à Internet. Tous les frais supportés par l'Utilisateur pour accéder au service (matériel informatique, logiciels, connexion Internet, etc.) sont à sa charge.",
+        "dataCollectionTitle": "ARTICLE 3 : Collecte des données",
+        "dataCollectionContent": "Le site ne collecte aucune donnée à caractère personnel concernant l'Utilisateur.",
+        "intellectualPropertyTitle": "ARTICLE 4 : Propriété intellectuelle",
+        "intellectualPropertyContent": "Les marques, logos, signes ainsi que tous les contenus du site (textes, images, son…) font l'objet d'une protection par le Code de la propriété intellectuelle et plus particulièrement par le droit d'auteur. L'Utilisateur doit solliciter l'autorisation préalable du site pour toute reproduction, publication, copie des différents contenus. Il s'engage à une utilisation des contenus du site dans un cadre strictement privé, toute utilisation à des fins commerciales et publicitaires est strictement interdite. Toute représentation totale ou partielle de ce site par quelque procédé que ce soit, sans l’autorisation expresse de l’exploitant du site Internet constituerait une contrefaçon sanctionnée par l’article L 335-2 et suivants du Code de la propriété intellectuelle. Il est rappelé conformément à l’article L122-5 du Code de propriété intellectuelle que l’Utilisateur qui reproduit, copie ou publie le contenu protégé doit citer l’auteur et sa source.",
+        "responsibilityTitle": "ARTICLE 5 : Responsabilité",
+        "responsibilityContent": "Les sources des informations diffusées sur le site vtcpassepartout.fr sont réputées fiables mais le site ne garantit pas qu’il soit exempt de défauts, d’erreurs ou d’omissions. Les informations communiquées sont présentées à titre indicatif et général sans valeur contractuelle. Malgré des mises à jour régulières, le site vtcpassepartout.fr ne peut être tenu responsable de la modification des dispositions administratives et juridiques survenant après la publication. De même, le site ne peut être tenue responsable de l’utilisation et de l’interprétation de l’information contenue dans ce site. Le site vtcpassepartout.fr ne peut être tenu pour responsable d’éventuels virus qui pourraient infecter l’ordinateur ou tout matériel informatique de l’Internaute, suite à une utilisation, à l’accès, ou au téléchargement provenant de ce site. La responsabilité du site ne peut être engagée en cas de force majeure ou du fait imprévisible et insurmontable d'un tiers.",
+        "hyperlinksTitle": "ARTICLE 6 : Liens hypertextes",
+        "hyperlinksContent": "Des liens hypertextes peuvent être présents sur le site. L’Utilisateur est informé qu’en cliquant sur ces liens, il sortira du site vtcpassepartout.fr. Ce dernier n’a pas de contrôle sur les pages web sur lesquelles aboutissent ces liens et ne saurait, en aucun cas, être responsable de leur contenu.",
+        "cookiesTitle": "ARTICLE 7 : Cookies",
+        "cookiesContent": "L’Utilisateur est informé que lors de ses visites sur le site, un cookie peut s’installer automatiquement sur son logiciel de navigation. Les cookies sont de petits fichiers stockés temporairement sur le disque dur de l’ordinateur de l’Utilisateur par votre navigateur et qui sont nécessaires à l’utilisation du site vtcpassepartout.fr. Les cookies ne contiennent pas d’information personnelle et ne peuvent pas être utilisés pour identifier quelqu’un. Un cookie contient un identifiant unique, généré aléatoirement et donc anonyme. Certains cookies expirent à la fin de la visite de l’Utilisateur, d’autres restent. L’information contenue dans les cookies est utilisée pour améliorer le site vtcpassepartout.fr. En naviguant sur le site, L’Utilisateur les accepte. L’Utilisateur doit toutefois donner son consentement quant à l’utilisation de certains cookies. A défaut d’acceptation, l’Utilisateur est informé que certaines fonctionnalités ou pages risquent de lui être refusées. L’Utilisateur pourra désactiver ces cookies par l’intermédiaire des paramètres figurant au sein de son logiciel de navigation. En outre, notre site utilise les services de Google Maps pour fournir des cartes et des localisations géographiques. Ces services de Google peuvent installer des cookies sur le logiciel de navigation de l'Utilisateur. Ces cookies sont utilisés par Google pour collecter des informations sur la façon dont les visiteurs utilisent les cartes, notamment pour des besoins de personnalisation et d'amélioration de l'expérience utilisateur. Nous n'avons aucun contrôle sur les cookies utilisés par Google Maps, et nous invitons les Utilisateurs à consulter la politique de confidentialité de Google pour plus d'informations sur leur utilisation des cookies.",
+        "applicableLawTitle": "ARTICLE 8 : Droit applicable et juridiction compétente",
+        "applicableLawContent": "La législation française s'applique au présent contrat. En cas d'absence de résolution amiable d'un litige né entre les parties, les tribunaux français seront seuls compétents pour en connaître. Pour toute question relative à l’application des présentes CGU, vous pouvez joindre l’éditeur aux coordonnées inscrites à l’ARTICLE 1."
+      }
+    }
+
+  

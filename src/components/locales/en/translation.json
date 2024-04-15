@@ -1,0 +1,64 @@
+{
+    "home": {
+    "contactUs": "Contact us",
+    "tarifOur": "Our rates",
+    "requestAQuote": "Request a quote",
+    "transfer24": "VTC PASSEPARTOUT offers 24/24 transfers over any distance upon reservation. Carry out your business, tourist transfers, or enjoy a private driver for several hours or half a day by simple reservation. Plan your trips safely, adapted to your needs by our professionals and be impeccable in your organization, because having time is possessing the most precious good for those who aspire to great things.",
+    "childSafety": "The highway code indicates that any child under 10 years old or measuring less than 135 cm must be transported in an approved safety device adapted to their weight. We ensure the safety of our children by indicating in the reservation if you need a child seat. Any reservation without information regarding the need for a baby seat can be canceled by the driver with fees starting from 20 euros for his travel.",
+    "luggagePolicy": "Large suitcases 75x47x29 must be taken into account when requesting a quote. To avoid any misunderstanding or cancellation of your trip due to the excessive number of your luggage, please provide us with as much information as possible concerning the details of your transfers and we will try to find solutions adapted for you.",
+    "reserveYourVTC": "BOOK YOUR VTC IN LA ROCHELLE, ÎLE DE RÉ AND ITS SURROUNDINGS",
+    "pricingPolicy": "PRICING POLICY",
+    "pricingDetails": "Although our rates depend on many factors, such as the conditions of the transfers and the specifics of your order, we do our best to ensure that the price of your trip is less than the interest you will gain by choosing our service. We offer trips starting from 24 euros. Terms of provision: The provision of a car with driver is charged at 50 euros including tax / hour 15 km included and 2 euros including tax for each additional km. These conditions are valid except on Sundays and public holidays. The prices of your transfers will be communicated to you in advance.",
+    "rateUsOnGoogle": "Your opinion matters! Rate us on Google"
+  },
+  "contact": {
+        "reservationFormTitle": "Reservation Form",
+        "informationHeading": "Information:",
+        "nameLabel": "Name*:",
+        "firstNameLabel": "First Name*:",
+        "emailLabel": "Email*:",
+        "phoneNumberLabel": "Phone Number*:",
+        "reservationDetailsHeading": "Reservation Details:",
+        "departureDateLabel": "Departure Date*:",
+        "departureTimeLabel": "Departure Time:",
+        "numberOfPassengersLabel": "Number of Passengers*:",
+        "commentsLabel": "Comments:",
+        "departureAddressLabel": "Departure Address*:",
+        "arrivalAddressLabel": "Arrival Address*:",
+        "numberVerificationLabel": "How much is:",
+        "submitButton": "Submit",
+        "successMessage": "Your reservation has been successfully sent!"
+  },
+  "header": {
+         "home": "Home",
+         "bookYourRide": "Book Your Ride",
+         "ourRates": "Our Rates"
+  },
+  "footer": {
+         "developedBy": "© 2023 Developed by",
+          "callUs": "Call us at +33 6 42 98 50 37",
+         "contactByEmail": "Or contact by email",
+         "termsAndPrivacy": "Terms and Privacy Policy"
+  },
+  "privacy": {
+    "termsTitle": "Terms and Conditions of Use",
+    "effectiveDate": "Effective as of [Effective Date]",
+    "termsIntroduction": "These general terms and conditions of use (referred to as \"GTC\") are intended to provide the legal framework for the availability of the site and services by [Your Name or your company's name] and to define the terms of access and use of the services by \"the User\".",
+    "legalMentionsTitle": "Article 1: Legal Mentions",
+    "legalMentionsContent": "The editing and direction of the publication of the vtcpassepartout.fr website is ensured by _______________, residing at _______________. The phone number is _______________ and the email address is _______________. The website vtcpassepartout.fr is hosted by the company _______________, whose head office is located at _______________, with the phone number: _______________.",
+    "accessToSiteTitle": "ARTICLE 2: Access to the Site",
+    "accessToSiteContent": "The vtcpassepartout.fr website provides the User with free access to the following services: The website offers the following services: _______________. The site is freely accessible anywhere to any User with Internet access. All costs incurred by the User to access the service (computer hardware, software, Internet connection, etc.) are at their expense.",
+    "dataCollectionTitle": "ARTICLE 3: Data Collection",
+    "dataCollectionContent": "The site does not collect any personal data about the User.",
+    "intellectualPropertyTitle": "ARTICLE 4: Intellectual Property",
+    "intellectualPropertyContent": "The brands, logos, signs, and all the contents of the site (texts, images, sound...) are protected by the Intellectual Property Code and more particularly by copyright. The User must request prior authorization from the site for any reproduction, publication, copy of the various contents. They commit to using the contents of the site in a strictly private setting. Any use for commercial and advertising purposes is strictly prohibited. Any total or partial representation of this site by any process whatsoever, without the express authorization of the website operator, would constitute an infringement sanctioned by articles L 335-2 and following of the Intellectual Property Code. It is reminded in accordance with article L122-5 of the Intellectual Property Code that the User who reproduces, copies, or publishes the protected content must cite the author and their source.",
+    "responsibilityTitle": "ARTICLE 5: Responsibility",
+    "responsibilityContent": "The sources of the information disseminated on the vtcpassepartout.fr site are deemed reliable, but the site does not guarantee that it is free of defects, errors, or omissions. The information communicated is presented for general informational purposes and has no contractual value. Despite regular updates, the vtcpassepartout.fr site cannot be held responsible for the modification of administrative and legal provisions occurring after publication. Similarly, the site cannot be held responsible for the use and interpretation of the information contained in this site. The vtcpassepartout.fr site cannot be held responsible for any viruses that could infect the computer or any computer equipment of the Internet user, following the use, access, or download from this site. The site's responsibility cannot be engaged in cases of force majeure or the unpredictable and insurmountable act of a third party.",
+    "hyperlinksTitle": "ARTICLE 6: Hyperlinks",
+    "hyperlinksContent": "Hyperlinks may be present on the site. The User is informed that by clicking on these links, they will leave the vtcpassepartout.fr site. The latter has no control over the web pages on which these links lead and cannot, under any circumstances, be responsible for their content.",
+    "cookiesTitle": "ARTICLE 7: Cookies",
+    "cookiesContent": "The User is informed that during their visits to the site, a cookie may automatically be installed on their browser software. Cookies are small files temporarily stored on the User's computer hard drive by your browser and are necessary for the use of the vtcpassepartout.fr site. Cookies do not contain personal information and cannot be used to identify someone. A cookie contains a unique identifier, generated randomly and therefore anonymous. Some cookies expire at the end of the User's visit, others remain. The information contained in the cookies is used to improve the vtcpassepartout.fr site. By browsing the site, the User accepts them. However, the User must give their consent to the use of certain cookies. Failing acceptance, the User is informed that some features or pages may be refused to them. The User may deactivate these cookies through the settings in their browser software.",
+    "applicableLawTitle": "ARTICLE 8: Applicable Law and Jurisdiction",
+    "applicableLawContent": "French legislation applies to this contract. In the absence of amicable resolution of a dispute between the parties, the French courts will have sole jurisdiction to hear it. For any questions relating to the application of these GTC, you can contact the publisher at the coordinates listed in ARTICLE 1."
+  }
+}

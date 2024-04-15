@@ -1,0 +1,23 @@
+ .map-container iframe  {
+    position: relative;
+    width: 100%; /* Largeur de la carte */
+    max-width: 100%; /* Largeur maximale pour la responsivité */
+    height: 800px; /* Hauteur de la carte */
+    overflow: hidden;
+  }
+  
+
+
+  @media screen and (max-width: 1024px){
+    .map-container iframe  {
+      height: 400px;
+    }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    
+    
+  }
+  
+  

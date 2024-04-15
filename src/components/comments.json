@@ -1,0 +1,82 @@
+[
+    {
+        "author": "Anna Girs",
+        "rating": "5",
+        "date": "il y a 8 mois",
+        "comment": "Très bon service. Nous sommes satisfaits de l'avoir contacté.",
+        "visited": "Visité en mars",
+        "owner_response": "Merci de nous avoir laissé votre avis!"
+    },
+    {
+        "author": "Nicolas Fournier",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Chauffeur au top. Gentil et disponible. Réactif et avec une conduite très prudente, non négligeable avec des enfants. Je le solliciterai à nouveau sans hésitation.",
+        "visited": "Visité en mai",
+        "owner_response": "Merci de votre retour! Au plaisir de vous revoir !"
+    },
+    {
+        "author": "gab dmt_",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Chauffeur très gentil. Professionnel. Tout ce qu’il faut pour passer un bon trajet !",
+        "visited": "Visité en avril",
+        "owner_response": "Merci pour votre avis simpatique !"
+    },
+    {
+        "author": "Marie Palazzo",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Le Meilleur chauffeur!! J’avais une urgence et je devais faire un aller-retour d’un point de la rochelle à la gare, heureusement je n’ai pas loupé mon train grâce à VTC Passepartout qui a trouvé les meilleurs itinéraires !",
+        "visited": "Visité en mars",
+        "owner_response": "Merci à vous!"
+    },
+    {
+        "author": "Opina Emma-Suzy",
+        "rating": "5",
+        "date": "il y a 9 mois",
+        "comment": "Super chauffeur, très aimable et agréable, a su se rendre disponible à mainte reprise. Je recommande sans hésitation !",
+        "visited": "Visité en mars",
+        "owner_response": "Merci à vous!"
+    },
+    {
+        "author": "Fulackier Sam",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Sérieux et accueillant. Je vous le conseille. Merci d'avoir respecté votre engagement et d'être venu rapidement.",
+        "visited": "Visité en avril",
+        "owner_response": "Merci de votre confiance et de votre retour!"
+    },
+    {
+        "author": "Margaux Dunoguiez",
+        "rating": "5",
+        "date": "il y a 9 mois",
+        "comment": "Service impeccable. Très courtois. Je vous recommande ce chauffeur vtc pour vos futurs trajets.",
+        "visited": "Visité en mars",
+        "owner_response": "Merci!"
+    },
+    {
+        "author": "Iveta Kurse",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "À la hauteur des nos attentes, professionnelles, discrets et ponctuelle. On le recommande vivement. Merci à vous.",
+        "visited": "Visité en avril",
+        "owner_response": "Merci à vous!"
+    },
+    {
+        "author": "Mathilde Labesque",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Très gentil vraiment super ! Je recommande",
+        "visited": "Visité en mai",
+        "owner_response": "Vous êtes gentille! Merci!"
+    },
+    {
+        "author": "Manon Forgerit",
+        "rating": "5",
+        "date": "il y a 7 mois",
+        "comment": "Parfait",
+        "visited": "Visité en mai",
+        "owner_response": "Merci à vous!"
+    }
+]
