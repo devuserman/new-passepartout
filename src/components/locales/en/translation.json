@@ -41,9 +41,10 @@
          "termsAndPrivacy": "Terms and Privacy Policy"
   },
   "privacy": {
+    "backToHome": "Back to Home",
     "termsTitle": "Terms and Conditions of Use",
     "legalMentionsTitle": "Article 1: Legal Mentions",
-    "legalMentionsContent": "The editing and direction of the publication of the vtcpassepartout.fr website is ensured by _______________, residing at _______________. The phone number is _______________ and the email address is _______________. The website vtcpassepartout.fr is hosted by the company _______________, whose head office is located at _______________, with the phone number: _______________.",
+    "legalMentionsContent": "The editing and direction of the publication of the website vtcpassepartout.fr is ensured by 'WebMatrix'. Email address 'dev.prowebmatrix17@gmail.com'. The host of the website vtcpassepartout.fr is the company 'IONOS'.",
     "accessToSiteTitle": "ARTICLE 2: Access to the Site",
     "accessToSiteContent": "The vtcpassepartout.fr website provides the User with free access to the following services: The website offers the following services: _______________. The site is freely accessible anywhere to any User with Internet access. All costs incurred by the User to access the service (computer hardware, software, Internet connection, etc.) are at their expense.",
     "dataCollectionTitle": "ARTICLE 3: Data Collection",

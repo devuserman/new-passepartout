@@ -9,6 +9,13 @@
   }
   
   .terms-privacy-container p {
+    font-family: Arial;
     text-align: justify;
     line-height: 1.6;
   }
+.back-link {
+  font-size: 14px;
+  color: green;
+  text-decoration: none;
+  float: left;
+}

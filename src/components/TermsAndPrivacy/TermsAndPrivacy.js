@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './TermsAndPrivacy-min.css'; 
 import { useTranslation } from 'react-i18next';
 
@@ -6,6 +7,7 @@ const TermsAndPrivacy = () => {
   const { t } = useTranslation();
   return (
     <div className="terms-privacy-container">
+      <Link to="/" className="back-link">&lt; {t('privacy.backToHome')}</Link>
       <h1>{t('privacy.termsTitle')}</h1>
          <h2>{t('privacy.legalMentionsTitle')}</h2>
       <p>{t('privacy.legalMentionsContent')}</p>
