@@ -7,10 +7,7 @@ const TermsAndPrivacy = () => {
   return (
     <div className="terms-privacy-container">
       <h1>{t('privacy.termsTitle')}</h1>
-          <p> {t('privacy.effectiveDate')}</p>
-          <p>{t('privacy.termsIntroduction')}</p>
-
-      <h2>{t('privacy.legalMentionsTitle')}</h2>
+         <h2>{t('privacy.legalMentionsTitle')}</h2>
       <p>{t('privacy.legalMentionsContent')}</p>
       <h2>{t('privacy.accessToSiteTitle')}</h2>
       <p>
