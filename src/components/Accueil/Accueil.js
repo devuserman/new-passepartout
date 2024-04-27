@@ -27,6 +27,24 @@ function Accueil() {
     }
   }, [location]);
 
+  useEffect(() => {
+  const handleTouchStart = (event) => {
+    event.preventDefault();
+   };
+
+   const handleTouchMove = (event) => {
+     event.preventDefault();
+   };
+
+    document.addEventListener('touchstart', handleTouchStart, { passive: true });
+    document.addEventListener('touchmove', handleTouchMove, { passive: true });
+
+    return () => {
+     document.removeEventListener('touchstart', handleTouchStart);
+     document.removeEventListener('touchmove', handleTouchMove);
+    };
+  }, []);
+
   const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
 
   const imageSets = [

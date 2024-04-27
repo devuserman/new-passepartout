@@ -1,5 +1,6 @@
 {
   "name": "new-passepartout",
+  "homepage": "https://vtcpassepartout.fr",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,6 +1,7 @@
-import React, { useState } from 'react';
 import './ContactForm-min.css';
 import { useTranslation } from 'react-i18next';
+import React, { useState, useEffect } from 'react';
+
 
 const ContactForm = () => {
   const { t } = useTranslation();
@@ -39,6 +40,17 @@ const ContactForm = () => {
       console.log('Неправильный ответ на проверку');
     }
   };
+
+  useEffect(() => {
+    const handleScroll = () => {
+      console.log('Scrolling occurred!');
+    };
+   window.addEventListener('scroll', handleScroll);
+  return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
+  }, []);
+
   
   
     return (
