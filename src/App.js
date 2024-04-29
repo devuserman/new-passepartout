@@ -31,6 +31,7 @@ function App() {
      <Router>
         <Helmet>
           <title>Taxi privé</title>
+          <link rel="icon" href="public/favicon.ico" />
         </Helmet>
         <Suspense fallback={<div>Chargement...</div>}>
           <Routes>
