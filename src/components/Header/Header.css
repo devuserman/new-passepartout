@@ -43,7 +43,7 @@ margin: 0 auto;
 }
 .burger-menu {
   font-size: 30px;
-  cursor: pointer;
+  
   z-index: 1000;
   top: 10px;
   right: 20px;
@@ -57,6 +57,7 @@ margin: 0 auto;
   visibility: hidden;
   transform: translateY(-10px);
   transition: all 0.3s ease;
+  z-index: 1000; 
 }
 .menu-dropdown.show {
   opacity: 1;
@@ -72,6 +73,7 @@ margin: 0 auto;
   padding: 10px 15px;
   display: block;
   white-space: nowrap;
+  cursor: pointer;
 }
 .flag-icon {
   cursor: pointer;
@@ -156,7 +158,8 @@ margin: 0 auto;
      }
      .flag-icon {
       margin: 0 10px;
-     }}
+     }
+    }
      @media screen and (max-width: 500px) {
       .logo-title {
         top: 15px;
